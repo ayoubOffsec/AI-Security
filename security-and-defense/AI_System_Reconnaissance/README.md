@@ -1,9 +1,5 @@
-# AI System Reconnaissance — TryHackMe
+# AI System Reconnaissance 
 
-> **Room:** AI System Reconnaissance  
-> **Difficulty:** Medium  
-> **Estimated time:** 90 minutes  
-> **Focus:** Discovering, fingerprinting, and enumerating exposed AI/ML infrastructure
 
 ## Table of Contents
 
@@ -544,6 +540,3 @@ The room points toward these resources and tool families for continued study:
 - **NIST Cybersecurity Framework 2.0** — asset identification and risk-management practices.
 - **Nmap, curl, and grpcurl** — service discovery and protocol-level inspection.
 
----
-
-*Report prepared from the supplied TryHackMe room notes. The room's terminology and answers have been preserved where provided. Framework mappings are reproduced from the source notes and should be verified against current official references before use in a professional assessment.*
